@@ -1,0 +1,5 @@
+package com.tka.edutrack.api.config;
+
+public class CorsConfig {
+
+}
